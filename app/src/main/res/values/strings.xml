@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">App0</string>
+    <string name="button2">Button2</string>
+    <string name="main_screen">Main Screen</string>
+    <string name="button1">Button1</string>
+    <string name="button3">Button3</string>
+    <string name="cookingapp">CookingApp</string>
+    <string name="valori_nutritionale">Valori nutritionale</string>
+    <string name="retete">Retete</string>
+    <string name="tips_tricks"><![CDATA[Tips&Tricks]]></string>
+    <string name="fainoase">FAINOASE</string>
+    <string name="carne">CARNE</string>
+    <string name="legume">LEGUME</string>
+</resources>
